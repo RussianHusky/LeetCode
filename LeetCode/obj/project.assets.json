@@ -8,32 +8,24 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\russi\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\ADMIN\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\russi\\Documents\\LeetCode\\LeetCode\\LeetCode.csproj",
+      "projectUniqueName": "C:\\Users\\ADMIN\\RiderProjects\\LeetCode\\LeetCode\\LeetCode.csproj",
       "projectName": "LeetCode",
-      "projectPath": "C:\\Users\\russi\\Documents\\LeetCode\\LeetCode\\LeetCode.csproj",
-      "packagesPath": "C:\\Users\\russi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\russi\\Documents\\LeetCode\\LeetCode\\obj\\",
+      "projectPath": "C:\\Users\\ADMIN\\RiderProjects\\LeetCode\\LeetCode\\LeetCode.csproj",
+      "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ADMIN\\RiderProjects\\LeetCode\\LeetCode\\obj\\",
       "projectStyle": "PackageReference",
-      "UsingMicrosoftNETSdk": false,
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\russi\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -51,7 +43,8 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      }
+      },
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net9.0": {
