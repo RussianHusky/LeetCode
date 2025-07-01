@@ -1,4 +1,4 @@
-﻿using LeetCode.LC09;
+﻿using LeetCode.LC20;
 
-var solution = new LeetCode9();
+var solution = new LeetCode20();
 solution.Run();
