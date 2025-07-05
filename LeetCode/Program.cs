@@ -1,4 +1,4 @@
-﻿using LeetCode.LC28;
+﻿using LeetCode.LC67;
 
-var solution = new LeetCode28();
+var solution = new LeetCode67();
 solution.Run();
