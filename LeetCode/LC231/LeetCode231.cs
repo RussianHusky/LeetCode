@@ -4,20 +4,11 @@ public class LeetCode231
 {
     public bool IsPowerOfTwo(int n)
     {
-        if (n < 10)
-        {
-            if (n == 1 || n == 2 || n == 4 || n == 8) return true;
-            return false;
-        }
-        string binary = Convert.ToString(n, 2);
-        binary = binary.Substring(1, binary.Length - 1);
-        if (Convert.ToInt32(binary, 2) == 0)
-            return true;
-        return false;
+        return (n != 0) && (n & (n - 1)) == 0 && n != int.MinValue;
     }
 
     public void Run()
     {
-        Console.WriteLine(IsPowerOfTwo(522));
+        Console.WriteLine(IsPowerOfTwo(-2147483648w));
     }
 }
