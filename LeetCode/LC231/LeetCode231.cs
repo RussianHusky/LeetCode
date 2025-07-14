@@ -9,6 +9,6 @@ public class LeetCode231
 
     public void Run()
     {
-        Console.WriteLine(IsPowerOfTwo(-2147483648w));
+        Console.WriteLine(IsPowerOfTwo(-2147483648));
     }
 }
